@@ -1,1 +1,1 @@
-# Aprender-JaaScript
+# Aprender JavaScript
